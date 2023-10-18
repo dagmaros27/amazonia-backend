@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+.eslintrc.js
+firebase-debug.1.log
+ui-debug.log
